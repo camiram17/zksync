@@ -1,5 +1,5 @@
 # zksync
-## Table of Contents
+## Que es ZKsync?
 1. [General Info](#general-info)
 2. [Technologies](#technologies)
 3. [Installation](#installation)
