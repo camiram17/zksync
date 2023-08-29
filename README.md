@@ -1,6 +1,6 @@
 # zksync?
 ## Que es ZKsync?
-1. [Principales caracteristicas](#Principales-caracteristicas)
+1. [Principales caracteristicas.](#Principales-caracteristicas.)
 2. [Technologia](#technologia)
 3. [Installation](#installation)
 4. [Collaboration](#collaboration)
