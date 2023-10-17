@@ -1,5 +1,5 @@
 # zksync?.
-## Que es ZKsyn?...
+## Que es ZKsyn?.
 1. [Principales caracteristicas.](#Principales-caracteristicas.)
 2. [Technologia](#technologia)
 3. [Installation](#installation)
